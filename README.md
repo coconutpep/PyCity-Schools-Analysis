@@ -13,3 +13,11 @@ and their corresponding pass rates, as well as the overall passing rate for the 
 Numbers are formated using standard American convention for comma placement and currency.
 
 ### School Summary
+
+## Built-With
+*Pandas
+*Python
+*Jupyter Notebook
+
+## Authors
+*Ryan Klueg
