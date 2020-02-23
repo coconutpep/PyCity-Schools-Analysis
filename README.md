@@ -13,6 +13,9 @@ and their corresponding pass rates, as well as the overall passing rate for the 
 Numbers are formated using standard American convention for comma placement and currency.
 
 ### School Summary
+Provides a summary of each individual school's data.
+This includes each school's student count, budget, budget per student, and test scoring information.
+Allows for quick analysis of school success compared to these metrics.
 
 ## Built-With
 * Pandas
