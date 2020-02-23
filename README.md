@@ -1,4 +1,4 @@
-<h1>Pandas-Challenge</h1>
+<h1 style="color:blue;">Pandas-Challenge</h1>
   <h2>/Data Summary</h2>
     <p>Code that provides a summary overview of the school district's information.<br>
        Information includes the total number of schools and students within the district,<br>
