@@ -15,9 +15,9 @@ Numbers are formated using standard American convention for comma placement and 
 ### School Summary
 
 ## Built-With
-*Pandas
-*Python
-*Jupyter Notebook
+* Pandas
+* Python
+* Jupyter Notebook
 
 ## Authors
-*Ryan Klueg
+* Ryan Klueg
