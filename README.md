@@ -5,7 +5,7 @@ Summary includes overview of district data, school specific data, and an overvie
 specific testing data by school.
 Also a quick view of top and bottom schools is given.
 
-### Data Summary
+### District Summary
 Provides a summary overview of the school district's information.
 Information includes the total number of schools and students within the district,
 the total budget for the district, the average scores for the math and reading test,
