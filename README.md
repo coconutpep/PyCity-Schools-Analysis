@@ -28,6 +28,10 @@ Returns the bottom 5 schools based on the same criteria as the top 5
 Provides a summary of the average math test scores based on each school and split further into each
 grade (i.e. 9th-12th).
 
+### Reading Scores by Grade
+Provides a summary of the average reading test scores based on each school and split further into each
+grade (i.e. 9th-12th).
+
 ## Built-With
 * Pandas
 * Python
