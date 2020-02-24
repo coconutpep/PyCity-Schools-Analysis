@@ -17,6 +17,13 @@ Provides a summary of each individual school's data.
 This includes each school's student count, budget, budget per student, and test scoring information.
 Allows for quick analysis of school success compared to these metrics.
 
+### Top Performing Schools
+Returns the top 5 schools based on their overall passing rate.
+Overall Passing rate is the average of both Math and Reading passing rate.
+
+### Bottom Performing Schools
+Returns the bottom 5 schools based on the same criteria as the top 5
+
 ## Built-With
 * Pandas
 * Python
