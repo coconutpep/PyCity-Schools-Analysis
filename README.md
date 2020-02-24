@@ -32,6 +32,13 @@ grade (i.e. 9th-12th).
 Provides a summary of the average reading test scores based on each school and split further into each
 grade (i.e. 9th-12th).
 
+### Summary of School Success by Per Student Budget
+Provides a summary of testing scores comparing the "Per Student", or average, budget of each school to
+their relative testing scores.
+Summary looks at groups of schools by intervals of $700 per student and provides the average Math & Reading
+score for each group as well as the passing rate for each subject and the overall passing rate (i.e. the 
+average of the two)
+
 ## Built-With
 * Pandas
 * Python
