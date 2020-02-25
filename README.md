@@ -45,6 +45,11 @@ Summary looks at groups of schools, 0-1,000 students being classified as small, 
 as medium, 3,000-4,000 being classified as large, and provides the average Math & Reading score for each group 
 as well as the passing rate for each subject and the overall passing rate (i.e. the average of the two).
 
+### Summary of School Success by School Type
+Provides a summary of testing scores comparing the school types (district vs. charter) to their relative testing scores.
+Provides the average Math & Reading score for each school tye as well as the passing rate for each subject and the 
+overall passing rate (i.e. the average of the two).
+
 ## Built-With
 * Pandas
 * Python
