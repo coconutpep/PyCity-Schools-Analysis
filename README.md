@@ -37,7 +37,13 @@ Provides a summary of testing scores comparing the "Per Student", or average, bu
 their relative testing scores.
 Summary looks at groups of schools by intervals of $700 per student and provides the average Math & Reading
 score for each group as well as the passing rate for each subject and the overall passing rate (i.e. the 
-average of the two)
+average of the two).
+
+### Summary of School Success by School Size
+Provides a summary of testing scores comparing the school size of each school to their relative testing scores.
+Summary looks at groups of schools, 0-1,000 students being classified as small, 1,000-3,000 being classified 
+as medium, 3,000-4,000 being classified as large, and provides the average Math & Reading score for each group 
+as well as the passing rate for each subject and the overall passing rate (i.e. the average of the two).
 
 ## Built-With
 * Pandas
