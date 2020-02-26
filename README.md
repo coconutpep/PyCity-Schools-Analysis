@@ -54,7 +54,7 @@ Provides a summary of testing scores comparing the school types (district vs. ch
 Provides the average Math & Reading score for each school tye as well as the passing rate for each subject and the 
 overall passing rate (i.e. the average of the two).
 
-### [PyCitySchools Report](PyCitySchools/PyCitySchoolsReport.doc)
+### [PyCitySchools Report](PyCitySchools/PyCitySchoolTrendReport.docx)
 Statistical summary of the data given by the code as detailed above in an easy to read manner for better comprehension.
 
 ## Built-With
