@@ -3,7 +3,7 @@
 Provides code that runs through a school district's testing data and returns a summary.
 Summary includes overview of district data, school specific data, and an overview of the 
 specific testing data by school.
-Also a quick view of top and bottom schools is given.
+Also a quick view of top and bottom performing schools is given.
 
 ### [PyCitySchools.ipynb](PyCitySchools/PyCitySchools.ipynb)
 Python code written in Jupyter Notebook that provides the following analysis using Pandas
